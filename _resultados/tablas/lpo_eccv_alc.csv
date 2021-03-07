@@ -1,0 +1,18 @@
+code3,code2,country,time,eccv_oit,source.label,note_source.label,note_indicator.label
+ARG,AR,Argentina,2015,52.9,"ARG - ADM - Estimaciones basadas en Registros del Ministerio de Trabajo, Empleo y Seguridad Social",NA,NA
+BLZ,BZ,Belize,2012,9.1,BLZ - ADM - National Trade Union Congress,NA,Collective bargaining coverage: Not adjusted for the right to collective bargaining
+BRA,BR,Brazil,2014,70.5,BRA - HS - Pesquisa Nacional por Amostra de Domicílios,"Reference group coverage: Employees, excluding domestic services",Collective bargaining coverage: Adjusted for the right to collective bargaining
+CHL,CL,Chile,2015,17.6,CHL - ADM - Registros Administrativos de la Dirección del Trabajo,Data reference period: End of the year | Institutional sector coverage: Private sector only | Reference group coverage: Employees,NA
+COL,CO,Colombia,2015,14.5,COL - OE - Estimates based on various administrative records,NA,NA
+CRI,CR,Costa Rica,2015,9.3,CRI - ADM - Administrative records of the Ministry of Labour and Social Security,NA,NA
+CUB,CU,Cuba,2008,81.4,CUB - ADM-RWO - Registros de la Central de Trabajadores de Cuba,Reference group coverage: Employees,Collective bargaining coverage: Not adjusted for the right to collective bargaining
+HND,HN,Honduras,2007,5.6,HND - ADM - Reporte Anual de Trabajadores con Cobertura de la Negociación Colectiva de la Secretaría de Trabajo y Seguridad Social,NA,Collective bargaining coverage: Not adjusted for the right to collective bargaining
+MEX,MX,Mexico,2015,9.8,MEX - ADM - Registros administrativos de la Secretaría del Trabajo y Previsión Social,NA,Collective bargaining coverage: Not adjusted for the right to collective bargaining
+NIC,NI,Nicaragua,2013,7.6,NIC - ADM - Registros de la Dirección de Derechos Colectivos e inspectorías departamentales,NA,Collective bargaining coverage: Not adjusted for the right to collective bargaining
+PAN,PA,Panama,2015,1.3,PAN - OE - Estimates based on various sources,NA,Reference period of collective bargaining coverage: Workers covered by collective bargaining agreements registered during the year of observation
+PER,PE,Peru,2015,5.6,PER - ADM - Planillas Electrónicas,Institutional sector coverage: Private sector only,NA
+PRY,PY,Paraguay,2015,0.7,PRY - ADM - Otros registros administrativos y fuentes relacionadas,NA,NA
+SLV,SV,El Salvador,2015,4.3,SLV - OE - Estimates based on various sources,NA,NA
+URY,UY,Uruguay,2015,94.7,URY - LFS - Encuesta Continua de Hogares,NA,NA
+VCT,VC,Saint Vincent and the Grenadines,2009,14,VCT - ADM-IR - National Insurance Services records,NA,NA
+VEN,VE,Venezuela (Bolivarian Republic of),2012,2.5,VEN - ADM-LIR - Registros del Ministerio del Poder Popular para el Trabajo y Seguridad Social,NA,NA

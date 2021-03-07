@@ -1,0 +1,19 @@
+code,pais,obs,region,ano_ref,fuente_orig
+ARG,Argentina,47,Latin America and the Caribbean,2016,Encuesta Permanente de Hogares (EPH)
+BOL,Bolivia,75.6,Latin America and the Caribbean,2014,Encuesta de Hogares (EH)
+BRA,Brazil,42.5,Latin America and the Caribbean,2016,"Pesquisa Nacional por Amostra de Domicílios (PNAD, Q3)"
+CHL,Chile,39.3,Latin America and the Caribbean,2016,"Labour force survey (NENE, December)"
+COL,Colombia,55.4,Latin America and the Caribbean,2015,Encuesta de Calidad de Vida
+CRI,Costa Rica,37.4,Latin America and the Caribbean,2016,Encuesta Nacional de Hogares (ENAHO)
+DOM,Dominican Republic,52.6,Latin America and the Caribbean,2014,Labour force survey (Encuesta de fuerza de trabajo) (ENFT)
+ECU,Ecuador,50.4,Latin America and the Caribbean,2015,"Encuesta Nacional de Empleo, Desempleo y Subempleo (ENEMDU)"
+SLV,El Salvador,63.1,Latin America and the Caribbean,2014,Encuesta de Hogares de Propósitos Múltiples (EHPM)
+GTM,Guatemala,72.7,Latin America and the Caribbean,2016,"Encuesta Nacional de Empleo e Ingresos (ENEI, Q4)"
+HND,Honduras,72.7,Latin America and the Caribbean,2014,Encuesta de Hogares de Propositos Multiples (EHPM)
+MEX,Mexico,53.2,Latin America and the Caribbean,2015,Encuesta Nacional de Ocupación y Empleo (ENOE)
+NIC,Nicaragua,68.6,Latin America and the Caribbean,2014,Encuesta Nacional de Hogares para la Medición del Nivel de Vida (ENMV)
+PAN,Panama,46,Latin America and the Caribbean,2014,Labour force survey
+PRY,Paraguay,64.4,Latin America and the Caribbean,2015,Encuesta Permanente de Hogares (EPH)
+PER,Peru,59.1,Latin America and the Caribbean,2015,Encuesta Nacional de Hogares (ENAHO)
+URY,Uruguay,24.1,Latin America and the Caribbean,2016,Encuesta Continua de Hogares (ECH)
+VEN,Venezuela,38.3,Latin America and the Caribbean,2012,Encuesta de Hogares por Muestreo (EHM)
